@@ -13,4 +13,4 @@
 - 피격/사망 : 'Zombie_BTService_DeadOrAlive','BTDecorator_ZombiesSleepOrWake' -> 좀비 상태 관리
 
 ★시연 영상
-- Zombie Demo(https://youtu.be/xR0lxL5kb2I)
+- ![Zombie Demo](https://youtu.be/xR0lxL5kb2I)
