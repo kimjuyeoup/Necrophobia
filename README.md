@@ -11,3 +11,6 @@
 - 이동 : 'Pro4Zombie','Pro4ZombieAI' -> AI 컨트롤러
 - 공격 : 'Zombie_BTTask_Attack','BTDecorator_ZombieAttachRange' -> 공격 범위 판정 및 애니메이션
 - 피격/사망 : 'Zombie_BTService_DeadOrAlive','BTDecorator_ZombiesSleepOrWake' -> 좀비 상태 관리
+
+★시연 영상
+- Zombie Demo(https://youtu.be/xR0lxL5kb2I)
